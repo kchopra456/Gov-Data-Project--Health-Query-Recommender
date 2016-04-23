@@ -1,0 +1,96 @@
+M1 [Ante Natal Care Services ANC]
+Number Under ANC
+['M1 [Ante Natal Care Services ANC]', '1.1', 'Total number of pregnant women Registered for ANC', 'TOTAL', '337', '6486', '6780', '294', '0', '6952', '7975', '1023', '0', '7524', '8963', '1439', '0', '9940', '8907', '-1033', '0', '7573', '7988', '415', '0', '8006', '7224', '-782', '0', '6745', '5973', '-772', '0', '5585', '4574', '-1011', '0', '5615', '4440', '-1175', '0', '5969', '5215', '-754', '0', '6332', '6644', '312', '0', '7463', '9104', '1641', '0', '84190', '83787\\r\n']
+M1 [Ante Natal Care Services ANC]
+Within First Trimester
+['M1 [Ante Natal Care Services ANC]', '1.1.1', 'Of which Number registered within first trimester (within 12 weeks)', 'TOTAL', '337', '4045', '2876', '-1169', '0', '4712', '2766', '-1946', '0', '4831', '2595', '-2236', '0', '5857', '2093', '-3764', '0', '5233', '2314', '-2919', '0', '5178', '1946', '-3232', '0', '3304', '1995', '-1309', '0', '2888', '1488', '-1400', '0', '2738', '1370', '-1368', '0', '2859', '1655', '-1204', '0', '2772', '2284', '-488', '0', '3077', '3018', '-59', '0', '47494', '26400\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Under JSY
+['M1 [Ante Natal Care Services ANC]', '1.2', 'Number of Pregnant women registered under JSY', 'TOTAL', '337', '4396', '6249', '1853', '0', '4308', '7791', '3483', '0', '3925', '8829', '4904', '0', '6985', '8907', '1922', '0', '6864', '7988', '1124', '0', '5766', '7224', '1458', '0', '4737', '5971', '1234', '0', '4028', '4574', '546', '0', '4313', '4440', '127', '0', '5866', '5215', '-651', '0', '5910', '6644', '734', '0', '7165', '9104', '1939', '0', '64263', '82936\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number With 3 ANC Check-ups
+['M1 [Ante Natal Care Services ANC]', '1.3', 'Number of pregnant women received 3 ANC check ups during pregnancy', 'TOTAL', '337', '3700', '3397', '-303', '0', '3339', '2950', '-389', '0', '3682', '3100', '-582', '0', '4698', '3231', '-1467', '0', '4412', '3628', '-784', '0', '4204', '3195', '-1009', '0', '3714', '3327', '-387', '0', '3398', '2579', '-819', '0', '3538', '2259', '-1279', '0', '3241', '2563', '-678', '0', '3599', '2799', '-800', '0', '3189', '4191', '1002', '0', '44714', '37219\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Given TT1
+['M1 [Ante Natal Care Services ANC]', '1.4.1', 'Number of pregnant women given TT1 during current pregnancy', 'TOTAL', '337', '6371', '6146', '-225', '0', '7027', '7342', '315', '0', '7841', '7925', '84', '0', '9161', '8234', '-927', '0', '7141', '6709', '-432', '0', '6799', '6352', '-447', '0', '6092', '4978', '-1114', '0', '4961', '3723', '-1238', '0', '5041', '3518', '-1523', '0', '5285', '4320', '-965', '0', '5864', '5650', '-214', '0', '6973', '7596', '623', '0', '78556', '72493\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Given TT2
+['M1 [Ante Natal Care Services ANC]', '1.4.2', 'Number of pregnant women given TT2 or Booster during current pregnancy', 'TOTAL', '337', '4623', '5708', '1085', '0', '5694', '6460', '766', '0', '6898', '7206', '308', '0', '8291', '7736', '-555', '0', '7885', '7374', '-511', '0', '8246', '7369', '-877', '0', '7344', '6810', '-534', '0', '5807', '4733', '-1074', '0', '5597', '3618', '-1979', '0', '5297', '3855', '-1442', '0', '5569', '5011', '-558', '0', '5967', '6970', '1003', '0', '77218', '72850\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Given 100 IFA Tablets
+['M1 [Ante Natal Care Services ANC]', '1.5', 'Total number of pregnant women given 100 IFA tablets', 'TOTAL', '337', '4813', '4059', '-754', '0', '5028', '3418', '-1610', '0', '5669', '3982', '-1687', '0', '5479', '4292', '-1187', '0', '4472', '5380', '908', '0', '5269', '5235', '-34', '0', '4762', '4515', '-247', '0', '4068', '3296', '-772', '0', '5246', '2814', '-2432', '0', '4453', '3219', '-1234', '0', '5692', '6643', '951', '0', '4544', '4546', '2', '0', '59495', '51399\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Case Of Hypertension(BP>140/90)
+['M1 [Ante Natal Care Services ANC]', '1.6.1', 'Number of new cases of Hypertension (BP>140/90) detected in Pregnant women at the institution', 'TOTAL', '337', '50', '104', '54', '0', '86', '136', '50', '0', '74', '290', '216', '0', '116', '239', '123', '0', '146', '278', '132', '0', '89', '276', '187', '0', '59', '254', '195', '0', '225', '142', '-83', '0', '115', '184', '69', '0', '158', '231', '73', '0', '157', '237', '80', '0', '132', '303', '171', '0', '1407', '2674\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Case Of Eclampsia
+['M1 [Ante Natal Care Services ANC]', '1.6.2', 'Number of Eclampsia cases managed during delivery', 'TOTAL', '337', '23', 'NA', '-23', '0', '3', '18', '15', '0', '2', '2', '0', '0', '32', 'NA', '-32', '0', '35', 'NA', '-35', '0', 'NA', '4', '4', '0', '14', '3', '-11', '0', '18', '1', '-17', '0', 'NA', '2', '2', '0', 'NA', '2', '2', '0', '1', '2', '1', '0', 'NA', '6', '6', '0', '128', '40\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Case Of Anaemia(HB<11)
+['M1 [Ante Natal Care Services ANC]', '1.7.1', 'Number of Pregnant women with anaemia i.e. Hb level<11 (tested cases)', 'TOTAL', '337', '14', '54', '40', '0', '68', '52', '-16', '0', '70', '13', '-57', '0', '84', '349', '265', '0', '96', '213', '117', '0', '81', '25', '-56', '0', '108', '49', '-59', '0', '15', '89', '74', '0', '118', '60', '-58', '0', '131', '10', '-121', '0', '134', '141', '7', '0', '49', '256', '207', '0', '968', '1311\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Case Of Severe Anaemia(HB<11)
+['M1 [Ante Natal Care Services ANC]', '1.7.2', 'Number of Pregnant women having severe anaemia (Hb<7) treated at institution', 'TOTAL', '337', '20', '4', '-16', '0', '3', 'NA', '-3', '0', '4', '1', '-3', '0', '45', '2', '-43', '0', '8', '12', '4', '0', '5', '8', '3', '0', 'NA', 'NA', '0', '0', 'NA', '2', '2', '0', '1', '1', '0', '0', '11', 'NA', '-11', '0', '5', '2', '-3', '0', '2', '8', '6', '0', '104', '40\\r\n']
+M1 [Ante Natal Care Services ANC]
+Number Test Case SC Level
+['M1 [Ante Natal Care Services ANC]', '1.8', 'Number of pregnancy test kits used at SC level', 'TOTAL', '337', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA\\r\n']
+M2 [Deliveries]
+Number Conducted At Home and Attended By Trained SBA
+['M2 [Deliveries]', '2.1.1.a', 'Number of deliveries conducted at Home and attended by trained SBA(i.e. Doctor or Nurse or ANM)', 'TOTAL', '337', '171', '1556', '1385', '0', '345', '552', '207', '0', '337', '636', '299', '0', '794', '628', '-166', '0', '830', '532', '-298', '0', '666', '793', '127', '0', '1260', '712', '-548', '0', '1150', '716', '-434', '0', '1847', '585', '-1262', '0', '840', '737', '-103', '0', '824', '586', '-238', '0', '663', '762', '99', '0', '9727', '8795\\r\n']
+M2 [Deliveries]
+Number Conducted At Home and Attended By NON-Trained SBA
+['M2 [Deliveries]', '2.1.1.b', 'Number of deliveries conducted at Home and attended by non trained SBA (i.e. trained TBA or Relatives etc.)', 'TOTAL', '337', '262', '1045', '783', '0', '522', '1488', '966', '0', '531', '1476', '945', '0', '870', '1463', '593', '0', '1094', '1675', '581', '0', '1265', '2236', '971', '0', '1168', '2222', '1054', '0', '2282', '1889', '-393', '0', '2367', '1752', '-615', '0', '2848', '1936', '-912', '0', '2171', '1693', '-478', '0', '1999', '2184', '185', '0', '17379', '21059\\r\n']
+M2 [Deliveries]
+Number Conducted At Home and Attended By an SBA
+['M2 [Deliveries]', '2.1.1.c', 'Total number of deliveries conducted at Home and attended by trained or non-trained SBA (i.e. sum of 2.1.1.a and 2.1.1.b)', 'TOTAL', '337', '433', '2601', '2168', '0', '867', '2040', '1173', '0', '868', '2112', '1244', '0', '1664', '2091', '427', '0', '1924', '2207', '283', '0', '1931', '3029', '1098', '0', '2428', '2934', '506', '0', '3432', '2605', '-827', '0', '4214', '2337', '-1877', '0', '3688', '2673', '-1015', '0', '2995', '2279', '-716', '0', '2662', '2946', '284', '0', '27106', '29854\\r\n']
+M2 [Deliveries]
+Number Of Visited Newborns Within 24 Hours
+['M2 [Deliveries]', '2.1.2', 'Number of newborns visited within 24 hours of delivery for deliveries conducted at home', 'TOTAL', '337', '133', '703', '570', '0', '424', '1308', '884', '0', '434', '1702', '1268', '0', '918', '1434', '516', '0', '827', '2186', '1359', '0', '918', '2169', '1251', '0', '1224', '2385', '1161', '0', '1725', '1544', '-181', '0', '1886', '1742', '-144', '0', '1619', '2173', '554', '0', '1543', '1996', '453', '0', '1416', '2081', '665', '0', '13067', '21423\\r\n']
+M2 [Deliveries]
+Number Of Mother Paid JSY Incentive
+['M2 [Deliveries]', '2.1.3', 'Number of mothers paid JSY incentive for deliveries conducted at home', 'TOTAL', '337', 'NA', 'NA', '0', '0', 'NA', '69', '69', '0', 'NA', '24', '24', '0', 'NA', '82', '82', '0', '41', 'NA', '-41', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '15', 'NA', '-15', '0', '103', 'NA', '-103', '0', '2', 'NA', '-2', '0', '116', 'NA', '-116', '0', '98', '29', '-69', '0', '375', '204\\r\n']
+M2 [Deliveries]
+Number Of Deliveries At Public Institutions
+['M2 [Deliveries]', '2.2', 'Deliveries conducted at Public Institutions (Including C-Sections)', 'TOTAL', '337', '1958', '2058', '100', '0', '1897', '2012', '115', '0', '2195', '1875', '-320', '0', '2971', '2633', '-338', '0', '3395', '3631', '236', '0', '3978', '3674', '-304', '0', '3317', '4033', '716', '0', '3284', '4147', '863', '0', '3054', '3708', '654', '0', '3249', '3247', '-2', '0', '2831', '2634', '-197', '0', '2328', '2320', '-8', '0', '34457', '35972\\r\n']
+M2 [Deliveries]
+Number Discharged Under 48 Hours
+['M2 [Deliveries]', '2.2.1', 'Out of 2.2, Number discharged under 48 hours of delivery', 'TOTAL', '337', '1240', '1747', '507', '0', '877', '1965', '1088', '0', '1223', '1676', '453', '0', '1948', '2604', '656', '0', '2300', '3620', '1320', '0', '2852', '3673', '821', '0', '2251', '4008', '1757', '0', '1944', '4147', '2203', '0', '2119', '3702', '1583', '0', '1525', '3247', '1722', '0', '1889', '2634', '745', '0', '1878', '2318', '440', '0', '22046', '35341\\r\n']
+M2 [Deliveries]
+Number Of Mother Paid JSY Incentive
+['M2 [Deliveries]', '2.2.2.a', 'Number of mothers paid JSY Incentive for deliveries conducted at Public Institutions', 'TOTAL', '337', '1964', '573', '-1391', '0', '1106', '160', '-946', '0', '1556', '29', '-1527', '0', '1605', '46', '-1559', '0', '1602', '35', '-1567', '0', '2353', '17550', '15197', '0', '1038', '3979', '2941', '0', '639', '3982', '3343', '0', '782', '3386', '2604', '0', '2432', '1958', '-474', '0', '708', '1657', '949', '0', '300', '2320', '2020', '0', '16085', '35675\\r\n']
+M2 [Deliveries]
+Number Of ASHAs Paid JSY Incentive
+['M2 [Deliveries]', '2.2.2.b', 'Number of ASHAs paid JSY Incentive for deliveries conducted at Public Institutions', 'TOTAL', '337', '2021', '439', '-1582', '0', '1149', '327', '-822', '0', '1134', '22', '-1112', '0', '1034', '46', '-988', '0', '963', '24', '-939', '0', '1565', '5809', '4244', '0', '662', '3357', '2695', '0', '374', '3301', '2927', '0', '492', '2289', '1797', '0', '1722', '1695', '-27', '0', '648', '1227', '579', '0', '649', '2286', '1637', '0', '12413', '20822\\r\n']
+M2 [Deliveries]
+Number Of Cases JSY Incentive Paid TO ANMs AWWs
+['M2 [Deliveries]', '2.2.2.c', 'Number of cases of deliveries conducted at Public Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)]', 'TOTAL', '337', 'NA', '74', '74', '0', '67', 'NA', '-67', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '67', '74\\r\n']
+M2 [Deliveries]
+Number Of Deliveries at Private institution
+['M2 [Deliveries]', '2.3', 'Deliveries conducted at Private Institutions (Including C-Sections)', 'TOTAL', '337', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '721', 'NA', '-721', '0', '458', 'NA', '-458', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '1179', 'NA\\r\n']
+M2 [Deliveries]
+Number Of Mother Paid JSY Incentive
+['M2 [Deliveries]', '2.3.1.a', 'Number of mothers paid JSY Incentive for deliveries conducted at accredited Private Institutions', 'TOTAL', '337', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '229', 'NA', '-229', '0', '234', 'NA', '-234', '0', '867', 'NA', '-867', '0', '139', 'NA', '-139', '0', 'NA', 'NA', '0', '0', '198', 'NA', '-198', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '1667', 'NA\\r\n']
+M2 [Deliveries]
+Number Of ASHAs Paid JSY Incentive
+['M2 [Deliveries]', '2.3.1.b', 'Number of ASHAs paid JSY Incentive for deliveries conducted at accredited Private Institutions', 'TOTAL', '337', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '229', 'NA', '-229', '0', '216', 'NA', '-216', '0', '196', 'NA', '-196', '0', '115', 'NA', '-115', '0', 'NA', 'NA', '0', '0', '152', 'NA', '-152', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '908', 'NA\\r\n']
+M2 [Deliveries]
+Number Of Cases JSY Incentive Paid TO ANMs AWWs
+['M2 [Deliveries]', '2.3.1.c', 'Number of cases of deliveries conducted at accredited Private Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)]', 'TOTAL', '337', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA\\r\n']
+M3 [Number of Caesarean C-Section deliveries performed at]
+Number Of Caesarean
+['M3 [Number of Caesarean C-Section deliveries performed at]', '3.1.1', 'Number of Caesarean (C-Section) deliveries performed at PHCs (Primary Health Centre)', 'TOTAL', '337', 'NA', 'NA', '0', '0', 'NA', '1', '1', '0', 'NA', 'NA', '0', '0', '1', 'NA', '-1', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '1', 'NA', '-1', '0', '3', 'NA', '-3', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '5', '1\\r\n']
+M3 [Number of Caesarean C-Section deliveries performed at]
+Number Of Caesarean
+['M3 [Number of Caesarean C-Section deliveries performed at]', '3.1.2', 'Number of Caesarean (C-Section) deliveries performed at CHCs (Community Health Centre)', 'TOTAL', '337', 'NA', '61', '61', '0', 'NA', '77', '77', '0', 'NA', '32', '32', '0', 'NA', '1', '1', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', '1', '1', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '23', 'NA', '-23', '0', '49', '1', '-48', '0', '90', '2', '-88', '0', '162', '175\\r\n']
+M3 [Number of Caesarean C-Section deliveries performed at]
+Number Of Caesarean
+['M3 [Number of Caesarean C-Section deliveries performed at]', '3.1.3', 'Number of Caesarean (C-Section) deliveries performed at SDHs (Sub-divisional Hospital) or DHs (District Hospital)', 'TOTAL', '337', 'NA', '41', '41', '0', '102', '161', '59', '0', '125', '30', '-95', '0', '155', '35', '-120', '0', 'NA', 'NA', '0', '0', '206', 'NA', '-206', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '228', 'NA', '-228', '0', '41', 'NA', '-41', '0', '35', 'NA', '-35', '0', '892', '267\\r\n']
+M3 [Number of Caesarean C-Section deliveries performed at]
+Number Of Caesarean
+['M3 [Number of Caesarean C-Section deliveries performed at]', '3.1.4', 'Number of Caesarean (C-Section) deliveries performed at other State owned public institutions', 'TOTAL', '337', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA\\r\n']
+M3 [Number of Caesarean C-Section deliveries performed at]
+Total Number Of Caesarean
+['M3 [Number of Caesarean C-Section deliveries performed at]', '3.1.5', 'Total Number of Caesarean (C-Section) deliveries performed at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 3.1.1 to 3.1.4)', 'TOTAL', '337', 'NA', '102', '102', '0', '102', '239', '137', '0', '125', '62', '-63', '0', '156', '36', '-120', '0', 'NA', 'NA', '0', '0', '206', 'NA', '-206', '0', 'NA', '1', '1', '0', '1', 'NA', '-1', '0', '3', 'NA', '-3', '0', '251', 'NA', '-251', '0', '90', '1', '-89', '0', '125', '2', '-123', '0', '1059', '443\\r\n']
+M3 [Number of Caesarean C-Section deliveries performed at]
+Number Of Caesarean
+['M3 [Number of Caesarean C-Section deliveries performed at]', '3.2', 'No. of C-section deliveries performed at Private facilities', 'TOTAL', '337', 'NA', 'NA', '0', '0', '102', 'NA', '-102', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '25', 'NA', '-25', '0', '85', 'NA', '-85', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', 'NA', 'NA', '0', '0', '212', 'NA\\r\n']
